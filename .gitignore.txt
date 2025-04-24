@@ -1,0 +1,31 @@
+# NetBeans-specific files
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Compiled JAR/WAR/EAR files
+*.jar
+*.war
+*.ear
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific folders
+.idea/
+.vscode/
+
+# Tomcat temporary files
+work/
+logs/
+temp/
