@@ -81,6 +81,15 @@ Open your browser and navigate to:
 arduino
 http://localhost:8080/Car-Showroom-
 
+![image](https://github.com/user-attachments/assets/5d133830-0c09-4ea1-970e-a04cba0ef6e4)
+![image](https://github.com/user-attachments/assets/e68ea8bc-04eb-4c37-abe2-f2afa8ab7e66)
+![image](https://github.com/user-attachments/assets/7da363ab-e8da-43a0-8839-ec69fb0bcab3)
+![image](https://github.com/user-attachments/assets/4e63ae52-b56c-4481-a22b-66e22453328a)
+![image](https://github.com/user-attachments/assets/6159aede-e585-4f59-a629-cf078dce10cd)
+![image](https://github.com/user-attachments/assets/9742afc6-7430-4683-bc15-527ccef86543)
+![image](https://github.com/user-attachments/assets/7ea4aaf8-f69b-4bf0-ab4b-cffd9c4acca6)
+
+
 🧪 Testing
 Unit Tests: Implemented using JUnit for backend logic.
 
