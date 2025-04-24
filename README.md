@@ -124,7 +124,7 @@ For any inquiries or contributions, please reach out to:
 
 Email: rushikesh1443@gamil.com
 
-GitHub: krushikesh23cs
+GitHub: [krushikesh23cs](https://github.com/krushikesh23cs?tab=repositories)
 
 🔗 Acknowledgments
 Apache Tomcat
